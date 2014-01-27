@@ -1,3 +1,5 @@
+.. _usecase-access-control:
+
 --------------
 Access Control
 --------------
